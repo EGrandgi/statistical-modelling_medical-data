@@ -6,6 +6,8 @@ M2 Mathématiques – Statistique & informatique décisionnelle (SID) - Universi
 
 &nbsp;
 
+Langage R
+
 Devoirs à rendre, 2 études de cas
 
 ## 1. Poids du bébé
