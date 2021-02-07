@@ -16,7 +16,7 @@ Identification de facteurs de risque maternels associés à un faible poids du b
 Méthodes : ANOVA, régression linéaire multiple, ANCOVA
 
 ## 2. VIH
-Identification de facteurs (en particulier le traitement traitement IL-2) associés à l'évolution du nombre de lymphocytes CD4 chez des patients infectés par le VIH
+Identification de facteurs (en particulier le traitement IL-2) associés à l'évolution du nombre de lymphocytes CD4 chez des patients infectés par le VIH
 
 Méthodes : ANOVA, modèles pour données répétées à un puis plusieurs facteurs (effets inter et intra-sujets, test de sphéricité)
 
